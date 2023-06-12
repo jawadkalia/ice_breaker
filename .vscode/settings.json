@@ -2,6 +2,4 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
-    "python.formatting.provider": "none",
-    "python.terminal.activateEnvInCurrentTerminal": true,
-}
+    "python.formatting.provider": "none"}
